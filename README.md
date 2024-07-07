@@ -1,5 +1,16 @@
-# Underground Artist Recommendation System For TikTok
+# tiktok_hackathon
 
-## Overview
-The Underground Artist Recommendation System for TikTok is designed to help users discover new and lesser-known artists based on the songs they already like on TikTok. By analyzing the songs a user engages with, the system generates personalized recommendations for underground artists, fostering a more diverse and enriched musical experience.
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
